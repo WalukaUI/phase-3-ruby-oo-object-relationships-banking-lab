@@ -1,0 +1,14 @@
+
+[1mFrom:[0m /home/waluka/Development/code/Phase-03/Ruby/3/Object Relationships in Ruby/phase-3-ruby-oo-object-relationships-banking-lab/lib/bank_account.rb:37 :
+
+    [1;34m32[0m:     song
+    [1;34m33[0m: [32mend[0m
+    [1;34m34[0m: 
+    [1;34m35[0m: 
+    [1;34m36[0m: [32mend[0m
+ => [1;34m37[0m: binding.pry
+    [1;34m38[0m: [1;34m# nam=BankAccount.new("Avi")[0m
+    [1;34m39[0m: [1;34m# nam[0m
+    [1;34m40[0m: [1;34m# BankAccount.new("Amanda") [0m
+    [1;34m41[0m: [1;34m# BankAccount.new("Terrance") [0m
+
